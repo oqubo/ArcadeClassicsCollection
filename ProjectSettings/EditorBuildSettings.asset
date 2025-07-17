@@ -6,20 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Escenas/Intro.unity
-    guid: b2c8509dd94444f3c89292cc10ae4bab
-  - enabled: 1
-    path: Assets/Escenas/Menu.unity
-    guid: 22fc012b2b6524e4a9892b661c6e1863
-  - enabled: 1
-    path: Assets/Escenas/JuegoSnake.unity
-    guid: 629ead7cdd58744f4ad33c24fbfead23
-  - enabled: 1
-    path: Assets/Escenas/JuegoArkanoid.unity
-    guid: d807bcc1e25ef41baa9b6571e7d9ae7c
-  - enabled: 1
-    path: Assets/Escenas/JuegoPacMan.unity
-    guid: 76c0406a51ff545b3bc39e1dd0c35a1c
-  - enabled: 1
-    path: Assets/Escenas/Contribuir.unity
-    guid: 660f6b803ae0043aeb569225662dadf6
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
